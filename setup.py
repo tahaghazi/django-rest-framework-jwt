@@ -24,7 +24,7 @@ package = 'rest_framework_jwt'
 description = 'JSON Web Token based authentication for Django REST framework'
 url = 'https://github.com/tahaghazy/django-rest-framework-jwt'
 author = 'Jose Padilla'
-author_email = 'jpadilla@getblimp.com'
+author_email = 'tahaghazt164@gmail.com'
 license = 'MIT'
 install_requires = [
     'PyJWT',
